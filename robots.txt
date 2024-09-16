@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://olverial.github.io/sitemap.html.gz
+Sitemap: https://olverial.github.io/app/sitemap.html.gz
+Sitemap: https://olverial.github.io/assets/sitemap.html.gz
+Sitemap: https://olverial.github.io/css/sitemap.html.gz
+Sitemap: https://olverial.github.io/includes/sitemap.html.gz
+Sitemap: https://olverial.github.io/item/sitemap.html.gz
+Sitemap: https://olverial.github.io/src/sitemap.html.gz
